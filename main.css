@@ -1,0 +1,15 @@
+html {
+    font-size: larger;
+        }
+        body {
+            background-color: rgba(238, 224, 224, 0.466);
+            color: rgb(29, 22, 22);
+        margin: none;
+        padding: none;
+        
+        border: none;
+        font-family: 'Times New Roman', Times, serif;
+        backdrop-filter: blur(4px) saturate(100%);
+        }
+
+     
